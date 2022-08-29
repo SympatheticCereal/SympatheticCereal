@@ -22,9 +22,6 @@
   margin-bottom: 10px;
 }
 
-textarea {
-width: 90%;
-}
 
 body {
   background-image: url(https://wallpaperaccess.com/full/1567665.png);
@@ -73,6 +70,7 @@ body {
 
 textarea {
   background-color: #E9DAC1;
+  width: 90%;
 }
 
 p {
